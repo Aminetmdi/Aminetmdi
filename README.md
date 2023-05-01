@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey there 👋, I'm Amin, it's a pleasure to meet you!<br><br>A few things about me :<br>I am frontend web developer doing all things creative to make the web a more unique and awesome place.<br>Coffee, Fitness, Music and rock climbing are my happy places<br>I enjoy bringing a static design or idea to life and learning new technologies.<br>Skilled in React , responsive designs, UI Design and ..
 
 
